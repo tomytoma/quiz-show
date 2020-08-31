@@ -68,7 +68,7 @@ body {
 }
 
 .answerOption:hover {
-  background-color: #eefef9;
+  background-color: #eefef4;
 }
 
 .radioCustomButton {
@@ -135,7 +135,7 @@ body {
 
 .fade-leave.fade-leave-active {
   opacity: 0;
-  transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
 }
 
 .fade-appear {
@@ -144,5 +144,5 @@ body {
 
 .fade-appear.fade-appear-active {
   opacity: 1;
-  transition: opacity 0.5s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
 }
