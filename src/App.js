@@ -125,7 +125,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>경제 샐러드 | 투자 선호도 퀴즈</h2>
+          <h2>JEI 경제 샐러드 | 투자 선호도 조사</h2>
         </div>
         {this.state.result ? this.renderResult() : this.renderQuiz()}
       </div>
