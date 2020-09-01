@@ -24,6 +24,17 @@ body {
   font-family: 'Noto Sans KR', sans-serif;
 }
 
+@media (min-width: 769px) {
+
+  body {
+    margin: 0px;
+    padding: 0px;
+    background: #eee;
+    font-family: 'Noto Sans KR', sans-serif;
+  }
+
+}
+
 .container {
   position: relative;
   max-width: 800px;
@@ -36,6 +47,8 @@ body {
 @media (min-width: 769px) {
   .container {
     margin: 2.5rem auto;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0px 5px 8px 3px rgb(189, 189, 189);
   }
 }
 
