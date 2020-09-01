@@ -3,7 +3,7 @@ import quizQuestions from './api/quizQuestions';
 import Quiz from './components/Quiz';
 import Result from './components/Result';
 import logo from './svg/logo.svg';
-import './App.css';
+
 
 class App extends Component {
   constructor(props) {
@@ -63,7 +63,7 @@ class App extends Component {
   }
 
   setUserAnswer(answer) {
-    this.setState((state, props) => ({
+    this.setState((state) => ({
       answersCount: {
         ...state.answersCount,
         [answer]: (state.answersCount[answer] || 0) + 1
@@ -125,7 +125,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>JEI 경제 샐러드 | 투자퀴즈</h2>
+          <h2>JEI 경제 샐러드 | 투자퀴즈 </h2>
         </div>
         {this.state.result ? this.renderResult() : this.renderQuiz()}
       </div>
@@ -135,3 +135,14 @@ class App extends Component {
 }
 
 export default App;
+
+
+
+// import React from 'react';
+// import Home from './routes/Home';
+
+// function App() {
+//   return <Home />;
+// }
+
+// export default App;
