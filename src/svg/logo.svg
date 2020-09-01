@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="482px" height="482px" viewBox="0 0 482 482" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Artboard</title>
-    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-opacity="0.745629371">
-        <g id="Group" transform="translate(70.000000, 80.000000)" stroke="#000000" stroke-width="14">
-            <circle id="Oval" cx="187.5" cy="106.5" r="99.5"></circle>
-            <circle id="Oval-Copy" cx="106.5" cy="240.5" r="99.5"></circle>
-            <circle id="Oval-Copy-2" cx="266.5" cy="240.5" r="99.5"></circle>
-        </g>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M338,196 C409.244733,196 467,253.755267 467,325 C467,396.244733 409.244733,454 338,454 C266.755267,454 209,396.244733 209,325 C209,253.755267 266.755267,196 338,196 Z M339,259 C303.101491,259 274,288.101491 274,324 C274,359.898509 303.101491,389 339,389 C374.898509,389 404,359.898509 404,324 C404,288.101491 374.898509,259 339,259 Z" id="Combined-Shape-1-Copy" fill-opacity="0.61328125" fill="#4E4E4E" transform="translate(338.000000, 325.000000) scale(1, -1) translate(-338.000000, -325.000000) "></path>
+        <path d="M242,28 C313.244733,28 371,85.7552673 371,157 C371,228.244733 313.244733,286 242,286 C170.755267,286 113,228.244733 113,157 C113,85.7552673 170.755267,28 242,28 Z M243,91 C207.101491,91 178,120.101491 178,156 C178,191.898509 207.101491,221 243,221 C278.898509,221 308,191.898509 308,156 C308,120.101491 278.898509,91 243,91 Z" id="Combined-Shape-1-Copy-3" fill-opacity="0.61328125" fill="#4E4E4E" transform="translate(242.000000, 157.000000) scale(1, -1) translate(-242.000000, -157.000000) "></path>
+        <path d="M144,196 C215.244733,196 273,253.755267 273,325 C273,396.244733 215.244733,454 144,454 C72.7552673,454 15,396.244733 15,325 C15,253.755267 72.7552673,196 144,196 Z M145,259 C109.101491,259 80,288.101491 80,324 C80,359.898509 109.101491,389 145,389 C180.898509,389 210,359.898509 210,324 C210,288.101491 180.898509,259 145,259 Z" id="Combined-Shape-1-Copy-2" fill-opacity="0.61328125" fill="#4E4E4E" transform="translate(144.000000, 325.000000) scale(1, -1) translate(-144.000000, -325.000000) "></path>
+        <ellipse id="Oval" stroke-opacity="0.584435096" stroke="#EADBFF" transform="translate(339.000000, 324.500000) scale(1, -1) translate(-339.000000, -324.500000) " cx="339" cy="324.5" rx="97" ry="97.5"></ellipse>
+        <circle id="Oval-Copy-5" stroke-opacity="0.584435096" stroke="#EADBFF" transform="translate(241.500000, 157.500000) scale(1, -1) translate(-241.500000, -157.500000) " cx="241.5" cy="157.5" r="97.5"></circle>
+        <circle id="Oval-Copy-4" stroke-opacity="0.584435096" stroke="#EADBFF" transform="translate(144.500000, 324.500000) scale(1, -1) translate(-144.500000, -324.500000) " cx="144.5" cy="324.5" r="97.5"></circle>
     </g>
 </svg>

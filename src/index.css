@@ -25,19 +25,17 @@ body {
 }
 
 @media (min-width: 769px) {
-
   body {
     margin: 0px;
     padding: 0px;
     background: #eee;
     font-family: 'Noto Sans KR', sans-serif;
   }
-
 }
 
 .container {
   position: relative;
-  max-width: 800px;
+  max-width: 810px;
   margin: 0 auto;
   background: #fff;
   border-radius: 0 0 10px 10px;
